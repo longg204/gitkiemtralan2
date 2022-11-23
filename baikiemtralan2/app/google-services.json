@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "266818074354",
+    "firebase_url": "https://ktrlan2-default-rtdb.firebaseio.com",
+    "project_id": "ktrlan2",
+    "storage_bucket": "ktrlan2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266818074354:android:db5165cf95e7cf828e826b",
+        "android_client_info": {
+          "package_name": "com.example.baikiemtralan2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266818074354-slvfe288oaaqoh350cn6459aho6rg1r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFm7VOMwAQ7qISi51i8Wp9OjW5YrLPdLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266818074354-slvfe288oaaqoh350cn6459aho6rg1r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266818074354:android:17709430d8d903548e826b",
+        "android_client_info": {
+          "package_name": "com.example.baitapcuoiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266818074354-slvfe288oaaqoh350cn6459aho6rg1r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFm7VOMwAQ7qISi51i8Wp9OjW5YrLPdLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266818074354-slvfe288oaaqoh350cn6459aho6rg1r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
